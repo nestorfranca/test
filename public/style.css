@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  /* background: url('img/backgroud.jpg'); */
+  width: 600px;
+  height: auto;
+  display: block;
+  /* margin-top: calc(50vh - 360px); */
+  /* margin-left: calc(50vw - 640px); */
+}
